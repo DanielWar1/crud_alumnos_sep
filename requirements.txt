@@ -1,3 +1,4 @@
 flask
 flask_sqlalchemy #extensión para usar SQLAlchemy con Flask
-psycopg2 #librería para conectar Python con PostgreSQL en linux o mac psycopg2-binary 
+psycopg2 #librería para conectar Python con PostgreSQL en linux o mac psycopg2-binary }
+gunicorn #servidor WSGI para aplicaciones web Python
